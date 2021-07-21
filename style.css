@@ -38,7 +38,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url("mac.png");
+  background-image: url(mac.png);
   position: fixed;
   display: block;
   top: 0;
@@ -199,7 +199,7 @@ textarea.contact-form-text{
 
 #skill
 {
-  background-image: url(img/mac.png);
+  background-image: url(mac.png);
   
 }
 
